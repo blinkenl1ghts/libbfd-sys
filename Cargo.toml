@@ -1,0 +1,10 @@
+[package]
+name = "libbfd-sys"
+version = "0.1.0"
+authors = ["blink3n"]
+edition = "2018"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.42.2"
